@@ -16,6 +16,13 @@
 
 We're a passionate community of makers, thinkers, and builders at SNUC dedicated to exploring the exciting world of robotics and technology. From beginners to experts, everyone has a place here.
 
+---
+
+ 🌐 **Official Website**
+🔗 [Visit Potential Club Website](https://snucpotentialclub.vercel.app/)
+
+---
+
 ## 🔧 What We Do
 
 - **🤖 Robotics** - Design, build, and program autonomous systems
